@@ -3,6 +3,7 @@
 Use this code for spamming a particular message using whatsapp web.
 
 STEPS TO USE:
+
 Step 1. Open WhatsApp web in your browser and select a contact to which you have to send a spam message.
 Step 2. Open your browser console using ctrl + shift + I.
 Step 3. Copy this code and paste it in console and hit Enter.
